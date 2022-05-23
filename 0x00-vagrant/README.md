@@ -1,0 +1,1 @@
+run uname on your terminal to test the Vagrant installed properly The result is saved in 0-hello_ubuntu
